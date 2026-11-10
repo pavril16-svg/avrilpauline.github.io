@@ -13,9 +13,9 @@ title                    : "Pauline AVRIL, Ph.D. in Economics"
 title_separator          : "-"
 name                     : &name "AVRIL"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : "https://avrilpauline.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : "https://pavril16-svg.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/avrilpauline.github.io" # the subpath of your site, e.g. "/blog"
 repository               : "pavril16-svg/avrilpauline.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
